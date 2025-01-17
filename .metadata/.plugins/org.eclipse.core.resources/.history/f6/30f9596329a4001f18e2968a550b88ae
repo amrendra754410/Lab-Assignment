@@ -1,0 +1,13 @@
+package practic_problem;
+import java.util.Scanner;
+public class Question_04 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter the number: ");
+		int No1 = sc.nextInt();// 789
+		int unit = No1%10;//
+		System.out.println(unit);
+	}
+
+}

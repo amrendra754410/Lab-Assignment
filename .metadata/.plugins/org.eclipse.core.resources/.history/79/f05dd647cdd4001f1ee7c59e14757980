@@ -1,0 +1,14 @@
+package Class_Work;
+import java.util.*;
+public class Question_09 {
+	public static void main(String args []) {
+		int n=4;
+		for(int i=1;i<=n;i++) {
+			System.out.print((long)(1/Math.pow(i,2))+" ");
+			System.out.println(i);
+		}
+		System.out.println(1/4);
+				
+	}
+
+}
