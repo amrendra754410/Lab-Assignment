@@ -1,6 +1,6 @@
 package Practice_problem;
 
-public class Questin_02 {
+public class Question_02 {
 	public static int getpentagonalNumber(int num) {
 		int number=(num*(3*num-1))/2;
 		return number;
