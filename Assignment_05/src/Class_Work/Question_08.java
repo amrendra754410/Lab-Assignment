@@ -6,13 +6,13 @@ public class Question_08 {
 		System.out.print("Enter n: ");
 		int n=sc.nextInt();
 		int sum=0;
-		for(int i=1;i<n;i++) {
+		for(int i=1;i<=n;i++) {
 			int sum1=0;
-			for(int j=0;j<i;j++) {
+			for(int j=1;j<=i;j++) {
 				sum1=sum1+j;
 			}  
 			sum=sum+sum1;
-			System.out.println(sum+" ");l
+			System.out.println(sum+" ");
 
 		}
 		

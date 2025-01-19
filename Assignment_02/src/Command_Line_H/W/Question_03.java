@@ -9,7 +9,7 @@ public class Question_03 {
 		int b=a/10;       //12
 		int hun=b%10;     //2
 		int c=b/10;       //1
-		int sum=once+ten+hun+c;
+		int sum=once+c;
 		System.out.println(sum);
 	}
 
