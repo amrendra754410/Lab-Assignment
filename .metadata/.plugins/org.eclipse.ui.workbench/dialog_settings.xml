@@ -17,6 +17,7 @@
 		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
 		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
 		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="E:\pendrive\Sc_12\24111846_Amrendra\Assignment_06\src\Practice_problem"/>
 			<item value="G:\Sc_12\24111846_Amrendra\Assignment_05\src\Home_Assignment"/>
 			<item value="G:\Sc_12\24111846_Amrendra\Assginment_04\src\Class_Work"/>
 			<item value="G:\Sc_12\24111846_Amrendra\Assignment_03\src\Class_Work"/>
@@ -51,7 +52,7 @@
 			<item key="DIALOG_X_ORIGIN" value="338"/>
 			<item key="DIALOG_Y_ORIGIN" value="219"/>
 			<item key="DIALOG_WIDTH" value="700"/>
-			<item key="DIALOG_HEIGHT" value="671"/>
+			<item key="DIALOG_HEIGHT" value="505"/>
 			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
 	</section>
